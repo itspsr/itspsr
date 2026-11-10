@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".52" stop-color="#10102c"/><stop offset="1" stop-color="#210b3d"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#5cf7ff"/><stop offset="1" stop-color="#7a5cff"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#6b5cff" stop-opacity=".42"/><stop offset="1" stop-color="#6b5cff" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="4"/></filter>
+  <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#7cecff" stroke-opacity=".11" stroke-width="1"/></pattern>
+</defs>
+<rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+<rect width="1600" height="560" rx="28" fill="url(#grid)"/>
+<ellipse cx="1190" cy="265" rx="390" ry="300" fill="url(#glow)"/>
+<g opacity=".75" fill="none" stroke="url(#cyan)">
+ <ellipse cx="1190" cy="270" rx="310" ry="100" transform="rotate(-25 1190 270)" stroke-width="2"/>
+ <ellipse cx="1190" cy="270" rx="310" ry="100" transform="rotate(35 1190 270)" stroke-width="1.5" stroke-opacity=".7"/>
+ <ellipse cx="1190" cy="270" rx="220" ry="220" stroke-width="1" stroke-dasharray="4 12" stroke-opacity=".65"/>
+</g>
+<circle cx="1190" cy="270" r="138" fill="#101b45" stroke="#75eaff" stroke-width="2"/>
+<circle cx="1190" cy="270" r="126" fill="none" stroke="#9c77ff" stroke-width="12" stroke-opacity=".2"/>
+<path d="M1080 230Q1190 145 1300 230Q1340 310 1260 365Q1150 420 1060 315Z" fill="#3b3a9a" opacity=".38"/>
+<path d="M1080 230Q1190 145 1300 230" fill="none" stroke="#69f5ff" stroke-width="3" opacity=".8"/>
+<g fill="#dffcff">
+ <circle cx="1040" cy="140" r="3"/><circle cx="1375" cy="155" r="2"/><circle cx="1430" cy="355" r="3"/>
+ <circle cx="980" cy="390" r="2"/><circle cx="1280" cy="80" r="2"/><circle cx="1510" cy="250" r="2"/>
+</g>
+<g stroke="#69eaff" stroke-opacity=".55" fill="none"><path d="M80 440H1520" stroke-dasharray="3 10"/><path d="M80 90H640" stroke-dasharray="2 9"/></g>
+<text x="105" y="150" fill="#79efff" font-family="monospace" font-size="18" letter-spacing="6">PERSONAL SYSTEM // 001</text>
+<text x="100" y="250" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800" letter-spacing="1">PRATIK KUMAR</text>
+<text x="105" y="305" fill="#9eefff" font-family="monospace" font-size="24" letter-spacing="3">DATA × INTELLIGENCE × ENGINEERING</text>
+<text x="105" y="370" fill="#c7c9e8" font-family="Arial,Helvetica,sans-serif" font-size="20">Turning complex data into clear decisions — and ideas into products.</text>
+<g font-family="monospace" font-size="15" letter-spacing="2">
+ <rect x="105" y="405" width="170" height="38" rx="19" fill="#102a43" stroke="#55eaff"/><text x="190" y="430" text-anchor="middle" fill="#8ff6ff">ANALYTICS</text>
+ <rect x="290" y="405" width="140" height="38" rx="19" fill="#211b48" stroke="#9c7cff"/><text x="360" y="430" text-anchor="middle" fill="#c4b1ff">BUILDER</text>
+ <rect x="445" y="405" width="160" height="38" rx="19" fill="#102a43" stroke="#55eaff"/><text x="525" y="430" text-anchor="middle" fill="#8ff6ff">MBA // IITP</text>
+</g>
+<text x="105" y="500" fill="#6e789f" font-family="monospace" font-size="13" letter-spacing="2">SYSTEM ONLINE  •  NOISE → SIGNAL  •  BUILD / ANALYZE / ITERATE</text>
+</svg>

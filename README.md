@@ -1,144 +1,173 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:00f0ff,50:6a00f4,100:12002e&height=260&section=header&text=PRATIK%20KUMAR&fontSize=54&fontColor=ffffff&stroke=00f0ff&strokeWidth=2&animation=twinkling&fontAlignY=36&desc=DATA%20ANALYST%20%2F%2F%20BUSINESS%20INTELLIGENCE%20%2F%2F%20PYTHON&descAlignY=58&descSize=16" width="100%" />
+<img src="./assets/nexus-hero.svg" alt="Pratik Kumar — Data, Intelligence and Engineering" width="100%" />
 
-<a href="https://github.com/itspsr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F0FF&center=true&vCenter=true&width=640&height=50&lines=%3E+booting+analyst_core.exe...;%3E+loading+Power+BI+%7C+SQL+%7C+Python;%3E+raw+data+%3D%3E+insights+%3D%3E+decisions;%3E+MBA+%40+IIT+Patna+%7C+SYSTEM+ONLINE" alt="Typing animation" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0b1b32?style=for-the-badge&logo=linkedin&logoColor=66eaff)](https://www.linkedin.com/in/data-by-pratik/)
+[![Portfolio](https://img.shields.io/badge/WEB-placementscore.online-0b1b32?style=for-the-badge&logo=googlechrome&logoColor=66eaff)](https://placementscore.online)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-0b1b32?style=for-the-badge&logo=gmail&logoColor=c6a7ff)](mailto:pratik6472@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-itspsr-0b1b32?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/itspsr)
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=12002e" />
-<img src="https://img.shields.io/badge/MODE-DATA__ANALYST-8a2be2?style=for-the-badge&labelColor=12002e" />
-<img src="https://img.shields.io/badge/MBA-IIT__PATNA-00f0ff?style=for-the-badge&labelColor=12002e" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=67EFFF&center=true&vCenter=true&width=760&height=42&lines=%3E+Initializing+NEXUS...;%3E+Translating+data+into+decisions;%3E+Building+with+Python%2C+SQL+%26+BI;%3E+MBA+Candidate+%40+IIT+Patna" alt="Animated terminal intro" />
 
 </div>
 
 ---
 
-## `> whoami`
-
-```bash
-┌──(pratik㉿itspsr)-[~]
-└─$ cat profile.sys
-
-  NAME        : Pratik Kumar
-  ROLE        : Aspiring Data Analyst / BI Professional
-  EDUCATION   : MBA Candidate @ IIT Patna (2025 - 2027, expected)
-  EXPERIENCE  : Data Science Intern @ Flip Robo Technologies (Jan - Jul 2022)
-  SPECIALITY  : dashboards | SQL | A/B testing | marketing mix modeling
-  STATUS      : [ONLINE] learning, building, shipping
-```
-
----
-
-## `> ./tech_stack`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter&theme=dark&perline=9" alt="Technology icons" />
-</p>
-
-```bash
-┌──(modules)-[~/skills]
-└─$ ls
-  [ANALYTICS]  Power BI | Tableau | Excel | Google Analytics | SAS
-  [CODE]       Python | SQL | Jupyter | Pandas | NumPy
-  [METHODS]    A/B Testing | Marketing Mix Modeling | Statistical Analysis
-  [CRAFT]      Data Cleaning | Data Storytelling
-```
-
----
-
-## `> ls ./missions`
+<h2 align="center">⌁ THE OPERATOR</h2>
 
 ```text
-MISSION_01  P2P Sourcing Analytics ......... [BUSINESS ANALYTICS]
-MISSION_02  Flip Robo Internship ........... [DATA SCIENCE]
-MISSION_03  Web Scraping ................... [PYTHON / DATA COLLECTION]
-MISSION_04  ML & Analytics Projects ........ [DATA PRACTICE]
+┌─[PRATIK@NEXUS]─[~/profile]
+└──╼ $ whoami
+
+  IDENTITY     Pratik Kumar
+  FOCUS        Data Analytics / Business Intelligence
+  EDUCATION    MBA Candidate — IIT Patna (2025–2027, expected)
+  EXPERIENCE   Data Science Intern — Flip Robo Technologies
+  TOOLKIT      Power BI • SQL • Python • Tableau • Excel
+  APPROACH     Explore → Explain → Experiment → Execute
+  DIRECTIVE    Turn raw information into useful decisions.
 ```
 
-<details>
-<summary><b>▶ MISSION_01 // P2P Sourcing Analytics</b></summary>
+I work at the intersection of **analytics, business thinking, and technology**. My interests include building decision-support dashboards, exploring datasets, applying statistical methods, and creating practical digital products.
 
-- **Focus:** Procurement and sourcing analytics
-- **Tools / methods:** Power BI, A/B experiments, marketing mix modeling
-- **Work:** Power BI dashboards, factory compliance dashboards, A/B experiments, and marketing mix models
-- **Impact:** Add a verified business outcome or metric here when available
+<div align="center">
+  <img src="./assets/data-universe.svg" width="100%" alt="Collect, analyze, model and deliver — data workflow" />
+</div>
+
+---
+
+<h2 align="center">⌁ CAPABILITY MATRIX</h2>
+
+<div align="center">
+
+| DOMAIN | TOOLKIT |
+|:--|:--|
+| **Business Intelligence** | Power BI · Tableau · Excel · Google Analytics |
+| **Programming & Data** | Python · SQL · Jupyter · Pandas · NumPy |
+| **Analytics Methods** | A/B Testing · Marketing Mix Modeling · Statistical Analysis |
+| **Data Craft** | Data Cleaning · Exploratory Analysis · Data Storytelling |
+| **Platforms** | Git · GitHub · SAS |
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter&theme=dark" alt="Python, SQL, Git, GitHub and Jupyter" />
+
+</div>
+
+---
+
+<h2 align="center">⌁ PROJECT ARCHIVE // SELECTED WORK</h2>
+
+<details open>
+<summary><b>01 — P2P Sourcing Analytics</b> · Business analytics experience</summary>
+
+- Built Power BI dashboards and factory compliance dashboards.
+- Worked with A/B experiments and marketing mix models.
+- Focus: sourcing visibility, measurement, and decision support.
+- *Business outcomes and quantified impact can be added when verified.*
 
 </details>
 
 <details>
-<summary><b>▶ MISSION_02 // Flip Robo Internship</b></summary>
+<summary><b>02 — Data Science Internship</b> · Flip Robo Technologies</summary>
 
-- **Role:** Data Science Intern
-- **Duration:** January – July 2022
-- **Focus:** Machine learning and exploratory data analysis
-- **Repositories:** [internship](https://github.com/itspsr/internship) · [Internship-1](https://github.com/itspsr/Internship-1)
-
-</details>
-
-<details>
-<summary><b>▶ MISSION_03 // Web Scraping</b></summary>
-
-- **Focus:** Data collection and web scraping using Python
-- **Tools:** Python, Jupyter Notebook
-- **Repository:** [WEB-SCRAPING](https://github.com/itspsr/WEB-SCRAPING)
+- Data Science Intern · January–July 2022.
+- Machine-learning and analytics practice across multiple datasets.
+- Repositories: [internship](https://github.com/itspsr/internship) · [Internship-1](https://github.com/itspsr/Internship-1)
 
 </details>
 
 <details>
-<summary><b>▶ MISSION_04 // ML & Analytics Projects</b></summary>
+<summary><b>03 — Evaluation Projects</b> · Machine learning & analytics</summary>
 
-- **Focus:** Classification, regression, prediction, and exploratory analysis
-- **Topics:** Customer retention, flight fares, housing, used cars, ratings, and more
-- **Repositories:** [Evaluation-Projects](https://github.com/itspsr/Evaluation-Projects) · [class-projects](https://github.com/itspsr/class-projects)
+- Practice spanning classification, regression, prediction, and exploratory analysis.
+- Topics include customer churn, flight prices, loan status, insurance fraud, HR attrition, and more.
+- Repository: [Evaluation-Projects](https://github.com/itspsr/Evaluation-Projects)
+
+</details>
+
+<details>
+<summary><b>04 — Class Projects</b> · Applied data exploration</summary>
+
+- Notebook-based analysis across datasets such as Titanic, BigMart, Abalone, Mushroom, and World Happiness.
+- Repository: [class-projects](https://github.com/itspsr/class-projects)
+
+</details>
+
+<details>
+<summary><b>05 — Web Scraping</b> · Python & data collection</summary>
+
+- Python/Jupyter exercises focused on extracting and working with web data.
+- Repository: [WEB-SCRAPING](https://github.com/itspsr/WEB-SCRAPING)
+
+</details>
+
+<details>
+<summary><b>06 — Free Claude Code</b> · Developer tooling</summary>
+
+- A Python-based coding-agent project with provider integrations and model-routing workflows.
+- Repository: [free-claude-code](https://github.com/itspsr/free-claude-code)
+
+</details>
+
+<details>
+<summary><b>07 — P-Tek</b> · AI-powered news aggregation concept</summary>
+
+- News aggregation project built with a Next.js-based stack.
+- Repository: [p-tek](https://github.com/itspsr/p-tek)
 
 </details>
 
 ---
 
-## `> cat stats.log`
+<h2 align="center">⌁ GITHUB TELEMETRY</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itspsr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=8a2be2" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspsr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" alt="Most used languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itspsr&show_icons=true&hide_border=true&bg_color=090d20&title_color=66eaff&icon_color=aa8cff&text_color=d8def5&ring_color=66eaff" alt="GitHub profile statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspsr&layout=compact&hide_border=true&bg_color=090d20&title_color=66eaff&text_color=d8def5" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=itspsr&theme=tokyonight&hide_border=true&background=090d20&ring=66eaff&fire=aa8cff&currStreakLabel=66eaff" alt="GitHub contribution streak" width="70%" />
+
 </div>
 
-### `> ./3d_commit_city`
+### `> contribution_city --render 3d`
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution city (available after the workflow generates the SVG)" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline — generated by the included GitHub Actions workflow" />
 </div>
 
-### `> ./activity_graph`
+### `> activity_stream --visualize`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspsr&bg_color=0d1117&color=00f0ff&line=8a2be2&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itspsr&bg_color=090d20&color=66eaff&line=9a7cff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </div>
 
 ---
 
-## `> ./certifications`
+<h2 align="center">⌁ CERTIFICATION VAULT</h2>
 
 ```text
-[x] Certified Data Scientist
-[x] Business Analytics with Power BI
-[x] Business Analytics with SAS
-[x] Intro to Programming Using Python
-[x] Certified Ethical Hacker (CEH)
+[ VERIFIED CREDENTIALS ]
+  ◈ Certified Data Scientist
+  ◈ Business Analytics with Power BI
+  ◈ Business Analytics with SAS
+  ◈ Introduction to Programming Using Python
+  ◈ Certified Ethical Hacker (CEH)
 ```
 
 ---
 
-## `> ping pratik --connect`
+<h2 align="center">⌁ ESTABLISH CONNECTION</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/data-by-pratik/"><img src="https://img.shields.io/badge/LinkedIn-data--by--pratik-00f0ff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=12002e" alt="LinkedIn" /></a>
-  <a href="mailto:pratik6472@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8a2be2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12002e" alt="Email" /></a>
-  <a href="https://placementscore.online"><img src="https://img.shields.io/badge/Web-placementscore.online-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=12002e" alt="Website" /></a>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:12002e,50:6a00f4,100:00f0ff&height=140&section=footer&animation=twinkling" width="100%" alt="Neon footer" />
+**Have a data problem, analytics opportunity, or interesting build in mind?**
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON-LINKEDIN-13243a?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/data-by-pratik/)
+[![Email](https://img.shields.io/badge/START_A-CONVERSATION-25194a?style=for-the-badge&logo=gmail)](mailto:pratik6472@gmail.com)
+[![Website](https://img.shields.io/badge/EXPLORE-placementscore.online-13243a?style=for-the-badge&logo=googlechrome)](https://placementscore.online)
+
+<img src="./assets/nexus-footer.svg" width="100%" alt="End of transmission" />
+
+<sub>Designed as a static GitHub profile experience. Animated external widgets may load independently; GitHub README does not execute custom JavaScript, WebGL, or scroll-triggered code.</sub>
+
 </div>
