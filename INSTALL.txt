@@ -1,0 +1,33 @@
+PRATIK BURGUNDY PROFILE — INSTALLATION
+
+PACKAGE CONTENTS
+- README.md
+- assets/pratik-burgundy-hero.svg
+- assets/pratik-skills.svg
+- assets/pratik-footer.svg
+
+INSTALL ON YOUR MAC
+1. Extract this ZIP.
+2. Open your existing local profile repository folder: itspsr/itspsr.
+3. Replace the repository's README.md with this package's README.md.
+4. Copy the three SVG files from this package's assets folder into the repository's assets folder.
+5. IMPORTANT: Keep your existing .github/workflows/profile-3d.yml and profile-3d-contrib folder.
+   The README uses the existing real GitHub-generated 3D contribution image.
+6. Preview README.md in GitHub Desktop or VS Code.
+7. Review the changed files, then commit and push only when satisfied.
+
+DO NOT overwrite the existing .github workflow unless you intend to modify it.
+No phone number, secret, fake metric, or unsupported award is included.
+
+COLOUR SYSTEM
+Midnight #10070C
+Dark wine #190B12
+Burgundy #451126
+Wine #701A3D
+Rose #C77B9B
+Pale rose #E5B5C7
+Ivory #F8F0F3
+
+ANIMATION
+The hero, skills and footer are SVG assets. The hero/footer use SVG SMIL motion.
+GitHub may sanitize or limit SVG animation, so the design remains legible when motion is disabled.

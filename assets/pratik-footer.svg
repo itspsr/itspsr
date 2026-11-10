@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="190" viewBox="0 0 1600 190" role="img" aria-labelledby="title">
+<title id="title">Pratik Kumar — closing signature</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset=".5" stop-color="#451126"/><stop offset="1" stop-color="#190B12"/></linearGradient></defs>
+<rect width="1600" height="190" rx="24" fill="url(#bg)" stroke="#701A3D"/>
+<path d="M0 28C320 120 510 -10 800 62S1280 126 1600 34" fill="none" stroke="#C77B9B" stroke-opacity=".45" stroke-width="1.5"/>
+<path d="M0 155C330 64 530 190 800 126S1260 65 1600 154" fill="none" stroke="#E5B5C7" stroke-opacity=".22"/>
+<text x="800" y="88" text-anchor="middle" fill="#F8F0F3" font-family="monospace" font-size="23" letter-spacing="5">BUILD WITH INTENTION. MEASURE WHAT MATTERS.</text>
+<text x="800" y="124" text-anchor="middle" fill="#E5B5C7" font-family="monospace" font-size="13" letter-spacing="3">PRATIK KUMAR  ·  DATA / BUSINESS / TECHNOLOGY</text>
+<path d="M735 146H865" stroke="#C77B9B" stroke-width="2"><animate attributeName="stroke-width" values="1;4;1" dur="3.2s" repeatCount="indefinite"/></path>
+</svg>
