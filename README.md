@@ -3,12 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/itspsr/itspsr/main/assets/nexus-hero.svg" alt="Pratik Kumar — Data, Intelligence and Engineering" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0b1b32?style=for-the-badge&logo=linkedin&logoColor=66eaff)](https://www.linkedin.com/in/data-by-pratik/)
-[![Portfolio](https://img.shields.io/badge/WEB-placementscore.online-0b1b32?style=for-the-badge&logo=googlechrome&logoColor=66eaff)](https://placementscore.online)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-0b1b32?style=for-the-badge&logo=gmail&logoColor=c6a7ff)](mailto:pratik6472@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-itspsr-0b1b32?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/itspsr)
+[**LINKEDIN ↗**](https://www.linkedin.com/in/data-by-pratik/) &nbsp; ◈ &nbsp; [**PORTFOLIO ↗**](https://placementscore.online) &nbsp; ◈ &nbsp; [**EMAIL ↗**](mailto:pratik6472@gmail.com) &nbsp; ◈ &nbsp; [**GITHUB ↗**](https://github.com/itspsr)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=800&color=67EFFF&center=true&vCenter=true&width=760&height=42&lines=%3E+Initializing+NEXUS...;%3E+Translating+data+into+decisions;%3E+Building+with+Python%2C+SQL+%26+BI;%3E+MBA+Candidate+%40+IIT+Patna" alt="Animated terminal intro" />
+<img src="https://raw.githubusercontent.com/itspsr/itspsr/main/assets/nexus-terminal.svg" alt="NEXUS animated terminal session" width="100%" />
 
 </div>
 
