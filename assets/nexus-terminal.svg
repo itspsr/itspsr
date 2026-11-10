@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="150" viewBox="0 0 1400 150">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset="1" stop-color="#171033"/></linearGradient></defs>
+<rect width="1400" height="150" rx="20" fill="url(#b)" stroke="#316b91"/>
+<circle cx="34" cy="29" r="6" fill="#ff667a"/><circle cx="55" cy="29" r="6" fill="#ffc75e"/><circle cx="76" cy="29" r="6" fill="#62e5a8"/>
+<text x="105" y="35" font-family="monospace" font-size="13" fill="#7e91b8">NEXUS TERMINAL // SESSION 001</text>
+<text x="42" y="88" font-family="monospace" font-size="22" fill="#67f0ff">&gt; booting analyst_core.exe  <tspan fill="#d8e5ff">|  Power BI  •  SQL  •  Python  •  IIT Patna</tspan></text>
+<rect x="42" y="104" width="10" height="22" rx="2" fill="#70edff"><animate attributeName="opacity" values="1;0.12;1" dur="1.15s" repeatCount="indefinite"/></rect>
+<text x="68" y="122" font-family="monospace" font-size="13" fill="#8e9dc2">SYSTEM ONLINE — DATA → SIGNAL → DECISION</text>
+</svg>
