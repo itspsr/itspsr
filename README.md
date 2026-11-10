@@ -1,131 +1,47 @@
 <div align="center">
 
-<img src="./assets/pratik-hero.svg" alt="Pratik Kumar — Data Analytics, Business Intelligence and AI Product Building" width="100%" />
+<img src="./assets/pratik-hero.svg" alt="Pratik Kumar — Data Analytics | Business Intelligence | AI Product Builder" width="100%" />
 
-[**LINKEDIN ↗**](https://www.linkedin.com/in/data-by-pratik/) · [**PORTFOLIO ↗**](https://itspsr.github.io/) · [**PLACEMENTSCORE ↗**](https://placementscore.online) · [**EMAIL ↗**](mailto:pratik6472@gmail.com) · [**GITHUB ↗**](https://github.com/itspsr)
+[LinkedIn](https://www.linkedin.com/in/data-by-pratik/) &nbsp;·&nbsp;
+[Portfolio](https://itspsr.github.io/) &nbsp;·&nbsp;
+[PlacementScore](https://placementscore.online) &nbsp;·&nbsp;
+[Email](mailto:pratik6472@gmail.com) &nbsp;·&nbsp;
+[GitHub](https://github.com/itspsr)
 
 </div>
 
 ---
 
-## 01 / ABOUT
+## 01 / About
 
-I work at the intersection of **data, business thinking, and technology**. My focus is turning raw information into useful decisions through business intelligence, analytics, and practical software projects.
+I am a data and business-focused technology professional interested in translating complex information into clear decisions and useful digital products. My work spans business intelligence, machine learning, data analysis, and software projects.
 
-| PROFILE | DETAILS |
+| Profile | Details |
 |:--|:--|
 | Name | Pratik Kumar |
-| Focus | Data Analytics / Business Intelligence |
-| Builder track | Python Developer / AI Product Builder |
-| Education | MBA Candidate — IIT Patna (2025–2027, expected) |
-| Previous education | BBA — completed December 2019 |
-| Experience | Data Science Intern — Flip Robo Technologies (Jan–Jul 2022) |
+| Professional focus | Data Analyst · Business Intelligence |
+| Builder focus | Python Developer · AI Product Builder |
+| Education | MBA Candidate, IIT Patna (2025–2027, expected) |
+| Previous education | BBA (completed December 2019) |
 
 ---
 
-## 02 / CAPABILITY INDEX
-
-<div align="center">
-  <img src="./assets/pratik-skills.svg" width="100%" alt="Pratik Kumar's business intelligence, programming, analytics methods and data skills" />
-</div>
-
-**Business Intelligence:** Power BI · Tableau · Excel · Google Analytics  
-**Programming & Data:** Python · SQL · R · Machine Learning  
-**Analytics Methods:** A/B Testing · Marketing Mix Modeling · Statistical Analysis  
-**Data Craft:** Data Cleaning · Exploratory Analysis · Data Storytelling
-
----
-
-## 03 / SELECTED WORK
-
-<div align="center">
-  <img src="./assets/pratik-projects.svg" width="100%" alt="Selected project areas: analytics, machine learning, developer tools and digital products" />
-</div>
-
-<details open>
-<summary><b>01 — P2P Sourcing Analytics</b> · Professional analytics experience</summary>
-
-- Built Power BI dashboards and factory compliance dashboards.
-- Worked with A/B experiments and marketing mix models.
-- Focus: sourcing visibility, measurement, and decision support.
-- This is professional project experience; no public repository or quantified outcome is claimed.
-
-</details>
-
-<details>
-<summary><b>02 — Free Claude Code</b> · Developer tooling</summary>
-
-- Python-based coding-agent project with provider integrations and model-routing workflows.
-- Repository: [itspsr/free-claude-code](https://github.com/itspsr/free-claude-code)
-
-</details>
-
-<details>
-<summary><b>03 — P-Tek</b> · News aggregation product concept</summary>
-
-- Next.js-based news aggregation project with RSS source parsing and periodic content refresh.
-- Repository: [itspsr/p-tek](https://github.com/itspsr/p-tek)
-
-</details>
-
-<details>
-<summary><b>04 — Evaluation Projects</b> · Machine learning and analytics</summary>
-
-- Notebook-based practice spanning classification, regression, prediction, and exploratory analysis.
-- Topics include customer churn, flight prices, loan status, insurance fraud, HR attrition, and more.
-- Repository: [itspsr/Evaluation-Projects](https://github.com/itspsr/Evaluation-Projects)
-
-</details>
-
-<details>
-<summary><b>05 — Data Science Internship Work</b> · Flip Robo Technologies</summary>
-
-- Data Science Intern · January–July 2022.
-- Public internship repository with machine-learning and analytics exercises.
-- Repository: [itspsr/internship](https://github.com/itspsr/internship)
-
-</details>
-
-<details>
-<summary><b>06 — Class Projects</b> · Applied data exploration</summary>
-
-- Notebook-based work across Titanic, BigMart, Abalone, Mushroom, advertisement, red wine, and World Happiness datasets.
-- Repository: [itspsr/class-projects](https://github.com/itspsr/class-projects)
-
-</details>
-
-<details>
-<summary><b>07 — Web Scraping</b> · Python and data collection</summary>
-
-- Python and Jupyter notebook exercises focused on extracting and working with web data.
-- Repository: [itspsr/WEB-SCRAPING](https://github.com/itspsr/WEB-SCRAPING)
-
-</details>
-
-<details>
-<summary><b>08 — Holoverse Universe Explorer</b> · Interactive 3D web experiment</summary>
-
-- JavaScript, HTML, and CSS-based 3D universe exploration project.
-- Repository: [itspsr/Holoverse-Universe-Explorer](https://github.com/itspsr/Holoverse-Universe-Explorer)
-
-</details>
-
----
-
-## 04 / PROFESSIONAL EXPERIENCE
+## 02 / Professional Experience
 
 **Data Science Intern — Flip Robo Technologies**  
 *January 2022 – July 2022*
 
-Worked on data science and machine-learning exercises, with public project work available in the [internship repository](https://github.com/itspsr/internship).
+Worked on data science and machine-learning exercises. The public internship repository contains notebook projects covering car-price prediction, flight-price prediction, housing-price prediction, comment classification, ratings prediction, customer retention, and micro-credit.
+
+Repository: [itspsr/internship](https://github.com/itspsr/internship)
 
 **P2P Sourcing Analytics — Project Experience**
 
-Worked on Power BI dashboards, factory compliance dashboards, A/B experiments, and marketing mix models.
+Worked on Power BI dashboards, factory compliance dashboards, A/B experiments, and marketing mix models. This is professional project experience; no separate public repository or quantified business outcome is claimed.
 
 ---
 
-## 05 / CERTIFICATIONS
+## 03 / Certifications
 
 - Certified Data Scientist
 - Business Analytics with Power BI
@@ -133,34 +49,148 @@ Worked on Power BI dashboards, factory compliance dashboards, A/B experiments, a
 - Introduction to Programming Using Python
 - Certified Ethical Hacker (CEH)
 
+*Credential names are listed as supplied. Issuer names and certification dates are not added because supporting details were not provided.*
+
 ---
 
-## 06 / GITHUB CONTRIBUTION ARCHITECTURE
+## 04 / Selected Projects
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar generated from account contribution data" width="100%" />
+  <img src="./assets/pratik-projects.svg" alt="Selected project categories: analytics, machine learning, AI and developer tools, and 3D web experiments" width="100%" />
+</div>
+
+<details open>
+<summary><strong>01 — Free Claude Code</strong> · Coding-agent provider proxy</summary>
+
+A Python-based local proxy that connects supported coding agents to AI providers through a shared provider/model configuration. The repository documents agent launchers, provider integrations, model routing and fallback workflows.
+
+**Verified stack:** Python, FastAPI, Uvicorn, HTTPX; Pytest, Ruff and Ty are listed in the project configuration.
+
+Repository: [itspsr/free-claude-code](https://github.com/itspsr/free-claude-code)
+
+</details>
+
+<details>
+<summary><strong>02 — PlacementScore</strong> · ATS resume analysis web application</summary>
+
+A web application for resume upload and ATS-oriented analysis. The source includes resume-analysis flows, score and feedback presentation, keyword-gap information, authentication and Supabase integration. The analysis route includes a Google Gemini integration.
+
+**Verified stack:** Next.js 14, React 18, TypeScript, Tailwind CSS, Supabase, Google Generative AI, PDF parsing and Framer Motion.
+
+Repository: [itspsr/placementscore](https://github.com/itspsr/placementscore) · Live site: [placementscore.online](https://placementscore.online)
+
+</details>
+
+<details>
+<summary><strong>03 — P-Tek Intelligence</strong> · RSS news aggregation</summary>
+
+A news aggregation application that fetches and presents World, Tech and Finance feeds. Its source includes RSS parsing, image extraction, category pages, a news ticker, and a 3,600-second revalidation setting.
+
+**Verified stack:** Next.js 14 App Router, React, Tailwind CSS, `rss-parser`, Cheerio and `date-fns`.
+
+Repository: [itspsr/p-tek](https://github.com/itspsr/p-tek)
+
+</details>
+
+<details>
+<summary><strong>04 — Holoverse Universe Explorer</strong> · Interactive 3D web experiment</summary>
+
+A browser-based solar-system and universe explorer. The interface includes planet search, System View, Galaxy View, Multiverse, Auto Tour and Reality Mode controls, with planetary information panels.
+
+**Verified stack:** JavaScript, HTML, CSS, Three.js r128 and OrbitControls.
+
+Repository: [itspsr/Holoverse-Universe-Explorer](https://github.com/itspsr/Holoverse-Universe-Explorer)
+
+</details>
+
+<details>
+<summary><strong>05 — Evaluation Projects</strong> · Machine learning and data analysis notebooks</summary>
+
+A collection of notebook projects covering customer churn, flight-price prediction, loan status, insurance-claim fraud, HR employee attrition, census prediction, rainfall prediction, global power plants, baseball and avocado data.
+
+**Verified stack:** Python, Jupyter Notebook, NumPy, pandas, Seaborn and Matplotlib (confirmed in the customer-churn notebook).
+
+Repository: [itspsr/Evaluation-Projects](https://github.com/itspsr/Evaluation-Projects)
+
+</details>
+
+<details>
+<summary><strong>06 — Flip Robo Internship Projects</strong> · Applied data science notebooks</summary>
+
+A multi-project internship repository containing car-price, flight-price, housing-price, malignant-comment classification, ratings prediction, customer-retention and micro-credit work.
+
+**Verified stack:** Python and Jupyter Notebook. The car-price notebook imports pandas, NumPy, Matplotlib and Seaborn.
+
+Repository: [itspsr/internship](https://github.com/itspsr/internship)
+
+</details>
+
+<details>
+<summary><strong>07 — Class Projects</strong> · Dataset exploration and prediction notebooks</summary>
+
+Notebook projects covering Abalone, BigMart, Mushroom, Titanic, advertisement, red-wine prediction and World Happiness datasets.
+
+**Format:** Jupyter Notebooks.
+
+Repository: [itspsr/class-projects](https://github.com/itspsr/class-projects)
+
+</details>
+
+<details>
+<summary><strong>08 — Web Scraping</strong> · Data collection exercises</summary>
+
+A set of four Jupyter notebooks covering web-scraping assignments and project exercises. The repository listing confirms the notebooks; no additional framework or library is claimed here.
+
+Repository: [itspsr/WEB-SCRAPING](https://github.com/itspsr/WEB-SCRAPING)
+
+</details>
+
+---
+
+## 05 / Technical Skills
+
+<div align="center">
+  <img src="./assets/pratik-skills.svg" alt="Technical skills grouped by business intelligence, programming, machine learning, analytics methods, and developer tools" width="100%" />
+</div>
+
+**Business Intelligence:** Power BI · Tableau · Microsoft Excel · Google Analytics  
+**Programming and Data:** Python · SQL · R  
+**Machine Learning:** Machine Learning  
+**Analytics Methods:** A/B Testing · Marketing Mix Modeling · Statistical Analysis  
+**Data Craft:** Data Cleaning · Data Storytelling  
+**Developer Tools:** Git · GitHub
+
+---
+
+## 06 / GitHub Contributions
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Genuine 3D GitHub contribution calendar generated from profile contribution data" width="100%" />
 </div>
 
 <div align="center">
 
-[**VIEW LIVE CONTRIBUTION CALENDAR ↗**](https://github.com/itspsr?tab=overview) · [**3D GRAPH WORKFLOW ↗**](https://github.com/itspsr/itspsr/actions/workflows/profile-3d.yml)
+[View live GitHub contribution calendar](https://github.com/itspsr?tab=overview) &nbsp;·&nbsp;
+[Open existing 3D contribution workflow](https://github.com/itspsr/itspsr/actions/workflows/profile-3d.yml)
 
 </div>
 
-<sub>The 3D skyline uses GitHub contribution data generated by the existing profile repository workflow. It is not a decorative activity illustration.</sub>
+The 3D contribution image is generated from GitHub contribution data by the existing profile repository workflow. No decorative contribution counts, streaks, language percentages, or rankings are presented.
+
+**GitHub statistics:** External statistics cards are intentionally omitted rather than relying on an unverified third-party renderer. Current repository and contribution information is available directly on [GitHub](https://github.com/itspsr).
 
 ---
 
-## 07 / CONNECT
+## 07 / Connect
 
 <div align="center">
 
-**Interested in analytics, business intelligence, or building useful technology?**
-
-[**LINKEDIN**](https://www.linkedin.com/in/data-by-pratik/) · [**PORTFOLIO**](https://itspsr.github.io/) · [**PLACEMENTSCORE**](https://placementscore.online) · [**EMAIL**](mailto:pratik6472@gmail.com) · [**GITHUB**](https://github.com/itspsr)
+[LinkedIn](https://www.linkedin.com/in/data-by-pratik/) &nbsp;·&nbsp;
+[Portfolio](https://itspsr.github.io/) &nbsp;·&nbsp;
+[PlacementScore](https://placementscore.online) &nbsp;·&nbsp;
+[Email](mailto:pratik6472@gmail.com) &nbsp;·&nbsp;
+[GitHub](https://github.com/itspsr)
 
 <img src="./assets/pratik-footer.svg" alt="Build with intention. Measure what matters." width="100%" />
-
-<sub>Premium burgundy identity · GitHub-compatible Markdown, HTML and SVG</sub>
 
 </div>

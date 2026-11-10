@@ -1,12 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390" role="img" aria-labelledby="skills-title">
-<title id="skills-title">Pratik Kumar — Capability Matrix</title>
-<defs><linearGradient id="skills-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset="1" stop-color="#2A0D1D"/></linearGradient><linearGradient id="skills-edge"><stop stop-color="#701A3D"/><stop offset=".5" stop-color="#C77B9B"/><stop offset="1" stop-color="#451126"/></linearGradient></defs>
-<rect width="1400" height="390" rx="24" fill="url(#skills-bg)" stroke="#701A3D"/>
-<text x="48" y="54" fill="#E5B5C7" font-family="monospace" font-size="18" letter-spacing="4">CAPABILITY INDEX / VERIFIED TOOLSET</text>
-<g font-family="Arial,sans-serif">
- <g transform="translate(48 84)"><rect width="620" height="112" rx="16" fill="#190B12" stroke="url(#skills-edge)"/><text x="24" y="35" fill="#C77B9B" font-family="monospace" font-size="13">01 / BUSINESS INTELLIGENCE</text><text x="24" y="80" fill="#F8F0F3" font-size="22">Power BI · Tableau · Excel · Google Analytics</text></g>
- <g transform="translate(700 84)"><rect width="652" height="112" rx="16" fill="#190B12" stroke="url(#skills-edge)"/><text x="24" y="35" fill="#C77B9B" font-family="monospace" font-size="13">02 / PROGRAMMING &amp; DATA</text><text x="24" y="80" fill="#F8F0F3" font-size="22">Python · SQL · R · Machine Learning</text></g>
- <g transform="translate(48 222)"><rect width="620" height="112" rx="16" fill="#190B12" stroke="url(#skills-edge)"/><text x="24" y="35" fill="#C77B9B" font-family="monospace" font-size="13">03 / ANALYTICS METHODS</text><text x="24" y="80" fill="#F8F0F3" font-size="21">A/B Testing · Marketing Mix Modeling · Statistics</text></g>
- <g transform="translate(700 222)"><rect width="652" height="112" rx="16" fill="#190B12" stroke="url(#skills-edge)"/><text x="24" y="35" fill="#C77B9B" font-family="monospace" font-size="13">04 / DATA CRAFT</text><text x="24" y="80" fill="#F8F0F3" font-size="22">Data Cleaning · Analysis · Data Storytelling</text></g>
-</g><path d="M48 360H1352" stroke="#C77B9B" stroke-opacity=".35"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" role="img" aria-labelledby="skillsTitle skillsDesc">
+<title id="skillsTitle">Pratik Kumar — Verified Technical Skills</title>
+<desc id="skillsDesc">Skills grouped into Business Intelligence, Programming and Data, Machine Learning, Analytics Methods, and Data Craft and Developer Tools.</desc>
+<defs>
+ <linearGradient id="skillsBackground" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10070C"/><stop offset="1" stop-color="#2A0D1D"/></linearGradient>
+ <linearGradient id="skillsBorder" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#701A3D"/><stop offset=".5" stop-color="#C77B9B"/><stop offset="1" stop-color="#451126"/></linearGradient>
+</defs>
+<rect width="1400" height="470" rx="24" fill="url(#skillsBackground)" stroke="#701A3D"/>
+<text x="48" y="54" fill="#E5B5C7" font-family="monospace" font-size="18" letter-spacing="4">TECHNICAL CAPABILITY / SKILL INDEX</text>
+<g font-family="Arial,Helvetica,sans-serif">
+ <g transform="translate(48 88)"><rect width="410" height="126" rx="16" fill="#190B12" stroke="url(#skillsBorder)"/><text x="23" y="36" fill="#C77B9B" font-family="monospace" font-size="13">01 / BUSINESS INTELLIGENCE</text><text x="23" y="82" fill="#F8F0F3" font-size="21">Power BI · Tableau</text><text x="23" y="108" fill="#E5B5C7" font-size="18">Excel · Google Analytics</text></g>
+ <g transform="translate(495 88)"><rect width="410" height="126" rx="16" fill="#190B12" stroke="url(#skillsBorder)"/><text x="23" y="36" fill="#C77B9B" font-family="monospace" font-size="13">02 / PROGRAMMING &amp; DATA</text><text x="23" y="82" fill="#F8F0F3" font-size="21">Python · SQL · R</text><text x="23" y="108" fill="#E5B5C7" font-size="18">Data analysis</text></g>
+ <g transform="translate(942 88)"><rect width="410" height="126" rx="16" fill="#190B12" stroke="url(#skillsBorder)"/><text x="23" y="36" fill="#C77B9B" font-family="monospace" font-size="13">03 / MACHINE LEARNING</text><text x="23" y="82" fill="#F8F0F3" font-size="21">Machine Learning</text><text x="23" y="108" fill="#E5B5C7" font-size="18">Predictive modelling</text></g>
+ <g transform="translate(48 240)"><rect width="640" height="126" rx="16" fill="#190B12" stroke="url(#skillsBorder)"/><text x="23" y="36" fill="#C77B9B" font-family="monospace" font-size="13">04 / ANALYTICS METHODS</text><text x="23" y="82" fill="#F8F0F3" font-size="21">A/B Testing · Marketing Mix Modeling</text><text x="23" y="108" fill="#E5B5C7" font-size="18">Statistical Analysis</text></g>
+ <g transform="translate(725 240)"><rect width="627" height="126" rx="16" fill="#190B12" stroke="url(#skillsBorder)"/><text x="23" y="36" fill="#C77B9B" font-family="monospace" font-size="13">05 / DATA CRAFT &amp; DEVELOPER TOOLS</text><text x="23" y="82" fill="#F8F0F3" font-size="21">Data Cleaning · Data Storytelling</text><text x="23" y="108" fill="#E5B5C7" font-size="18">Git · GitHub</text></g>
+</g>
+<path d="M48 405H1352" stroke="#C77B9B" stroke-opacity=".32"/>
+<text x="48" y="438" fill="#A8798D" font-family="monospace" font-size="12" letter-spacing="2">GROUPED FROM THE PROVIDED SKILL PROFILE AND VERIFIED PROJECT REPOSITORY STRUCTURE</text>
 </svg>
