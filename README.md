@@ -22,8 +22,6 @@ I am a data and business-focused technology professional interested in translati
 | Professional focus | Data Analyst · Business Intelligence |
 | Builder focus | Python Developer · AI Product Builder |
 | Education | MBA Candidate, IIT Patna (2025–2027, expected) |
-| Previous education | BBA (completed December 2019) |
-
 ---
 
 ## 02 / Professional Experience
